@@ -5,6 +5,8 @@ This series of applications eliminates the need to use PHPMyAdmin and allows the
 
 The application contains password encrpytion ensuring absoulte security when managing records.
 
+The PHP Data Admin Generator makes use of PHP, HTML, features styling from Boostrap, and works with MySQL, PostgreSQL, etc.
+
 
 
 
